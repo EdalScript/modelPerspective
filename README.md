@@ -2,5 +2,5 @@
 
 Made with Vue.js and CSS3
 
-Check me out ---> edalscript.github.io/modelperspective/
+Check me out ---> https://edalscript.github.io/modelperspective/
 
